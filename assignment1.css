@@ -1,0 +1,14 @@
+.font{
+    font-family: 'Rubik', sans-serif;
+}
+span{
+    color: blue;
+}
+.img-size{
+    width: 100%;
+    height: 250px;
+}
+.video{
+    width: 100%;
+    height: 300px;
+}
